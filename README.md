@@ -1,2 +1,2 @@
 # Snake-Game
-Snake Game implementation using java
+Classic Snake Game implementation using java
